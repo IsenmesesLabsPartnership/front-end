@@ -3,7 +3,7 @@ function Products() {
     return (
         <div>
             <h1>
-                HUY
+                HUY1
             </h1>
         </div>
     )
